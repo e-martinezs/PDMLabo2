@@ -1,3 +1,10 @@
 <resources>
-    <string name="app_name">Labo2</string>
+    <string name="app_name">Labo2 - Tennis Score Tracker</string>
+    <string name="player_a">Player A</string>
+    <string name="player_b">Player B</string>
+    <string name="point">Point</string>
+    <string name="reset">Reset</string>
+    <string name="deuce">Deuce</string>
+    <string name="advantage">Advantage</string>
+    <string name="win">Win</string>
 </resources>
